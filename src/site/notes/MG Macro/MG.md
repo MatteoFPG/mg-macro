@@ -4,7 +4,7 @@
 
 # Matteo Giordano
 
-![CVPicture.png|300](/img/user/MG%20Macro/CVPicture.png)
+![CVPicture.png|300](/img/user/MG%20Macro/Attachments/CVPicture.png)
 
 > *Macroeconomist and Political Economist*
 
