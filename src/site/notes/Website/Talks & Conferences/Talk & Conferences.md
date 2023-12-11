@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/website/talks-and-conferences/talk-and-conferences/"}
+{"dg-publish":true,"permalink":"/website/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00"}
 ---
 
 
-# Presentations
+## Presentations
 
 1. “Off‐Balance‐Sheet Fiscal Agencies and the Role of the State in Financing the Green Transition”, Money in Open Economies, University of Leeds, Leeds, UK 12 September 2023.
-2. “Subordination and Money in the EMU: the Consequences”, Global Climate Forum Graduate Colloquium, Belin, Germany, 17 July 2023.
+2. “Subordination and Money in the EMU: the Consequences”, Global Climate Forum Graduate Colloquium, Berlin, Germany, 17 July 2023.
 3. “Hegemony in Europe: Allowing the EMU to tick over” (with Prof. Lapavitsas), Musashi University Online International Symposium on Secular Stagnation as a New Great Depression: Japan and Beyond Part II Europe and Asia, Musashi University, Tokyo, 27 May 2023.
 4. “Imperialism: From Theory to Europe”, SOASxNSSR Lecture Series in Advance Political Economy, SOAS University of London, 24 April 2023.
 5. “Encumbered Security: Conceptualizing Vertical and Horizontal Repos in the Euro Area” (with A. Goghie), YSI Liquidity Project Financial Market Infrastructure (LPFMI), discussion with Ioana Neamțu (BoE) and Godfried de Vidts (ICMA), Institute for New Economic Thinking, 21 April 2023.
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-# Talks and Workshops
+## Talks and Workshops
 
 1. Building a Dataset for the OBFA‐TRANSFORM project, University of Bath and Global Climate Forum, GCF, Berlin, Germany, 20 July 2023.
 2. Off‐Balance‐Sheet Fiscal Agencies and the Role of the State in Financing the Green Transition, University of Bath and Global Climate Forum, GCF, Berlin, Germany, 18‐19 July 2023.
