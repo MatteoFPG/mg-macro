@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/website/publications/publications/"}
+{"dg-publish":true,"permalink":"/website/publications/publications/","created":"2023-12-11T21:26:37.391+00:00"}
 ---
 
 
-# Published
+## Published
 
 1. Murau, S. and Giordano, M. [forthcoming]. “European Monetary Unification through Novation: The Political Economy of the TARGET System”, Socio‐Economic Review. DOI: https://doi.org/10.1093/ser/mwad067
 2. Giordano, M. and C. Lapavitsas. 2024. “Persistent institutional malfunctioning in the Eurozone”, The Japanese Political Econ‐ omy. DOI: : https://doi.org/10.1080/2329194X.2023.2289883
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-# In Review
+## In Review
 
 1. Giordano, M. and A. Goghie. 2023. “From Policy to Regime: the changing posture of the ECB between liquidity and collateral through the lens of Monetary Regime”, SocArXiv Working Paper, [Working Paper](https://doi.org/10.31235/osf.io/rw3ms)
 2. Murau, S. and Giordano, M. 2022. “European Monetary Unification through Novation: The Political Economy of the TARGET System”, SocArXiv Working Paper. [Working Paper](https://osf.io/preprints/socarxiv/k3nbh)
