@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00","updated":"2023-12-11T22:44:50.603+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00","updated":"2023-12-11T23:13:17.563+00:00"}
 ---
 
-
+# Talk & Conferences
 ## Presentations
 
 1. “Off‐Balance‐Sheet Fiscal Agencies and the Role of the State in Financing the Green Transition”, Money in Open Economies, University of Leeds, Leeds, UK 12 September 2023.
