@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T23:08:34.162+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T23:10:39.985+00:00"}
 ---
 
 
