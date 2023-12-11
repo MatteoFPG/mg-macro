@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T23:42:07.047+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T23:45:34.421+00:00"}
 ---
 
 # Matteo Giordano
@@ -15,7 +15,7 @@ __[Twitter](https://twitter.com/Mat_Giord) ~ [LinkedIn](https://www.linkedin.com
 
 <br />
 
-I am an economist and political economist, currently covering the position of Lecturer in Economics in the Department of Economics at SOAS University of London. I am also an Associate Research at the Global Climate Forum in Berlin, where I contribute to the project on the OBFA-TRANSFORM Project.
+I am an economist and political economist, currently covering the position of Lecturer in Economics in the Department of Economics at SOAS University of London. I am also an Associate Research at the Global Climate Forum in Berlin, where I contribute to the project on the [OBFA-TRANSFORM Project](https://globalclimateforum.org/portfolio-item/obfa-transform/).
 
 My main areas of interest are European Political Economy, Financialisation, Financial and Monetary Macroeconomics, International Economics, and History of Economic Thought. I am most fascinated by monetary system, especially monetary unions, of which I tend to focus on the Eurozone and the CFA Franc.
 
