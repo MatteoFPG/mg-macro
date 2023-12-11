@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T22:57:43.126+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T23:08:34.162+00:00"}
 ---
 
-## Matteo Giordano
 
 > *Macroeconomist and Political Economist*
 
@@ -29,15 +28,15 @@ I am a member of the European Research Network on Economic and Social Policy (ER
 <br />
 <br />
 
-## Research Projects
+# Research Projects
 
 > Check out my [[MG Macro/Research Projects/Research Projects\|Research Projects]]
 
-## Publications
+# Publications
 
 > Check out my [[MG Macro/Publications/Publications\|Publications]]
 
-## Talks & Conferences
+# Talks & Conferences
 
 > Check out my [[MG Macro/Talks & Conferences/Talk & Conferences\|Talk & Conferences]]
 
@@ -47,7 +46,7 @@ I am a member of the European Research Network on Economic and Social Policy (ER
 <br />
 <br />
 
-## Affiliations
+# Affiliations
 
 - SOAS University of London
 - EReNSEP
