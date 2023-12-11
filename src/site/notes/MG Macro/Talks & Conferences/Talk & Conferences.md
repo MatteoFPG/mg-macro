@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00","updated":"2023-12-11T23:13:17.563+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00","updated":"2023-12-11T23:15:00.317+00:00"}
 ---
 
-# Talk & Conferences
-## Presentations
+
+# Presentations
 
 1. “Off‐Balance‐Sheet Fiscal Agencies and the Role of the State in Financing the Green Transition”, Money in Open Economies, University of Leeds, Leeds, UK 12 September 2023.
 2. “Subordination and Money in the EMU: the Consequences”, Global Climate Forum Graduate Colloquium, Berlin, Germany, 17 July 2023.
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-## Talks and Workshops
+# Talks and Workshops
 
 1. Building a Dataset for the OBFA‐TRANSFORM project, University of Bath and Global Climate Forum, GCF, Berlin, Germany, 20 July 2023.
 2. Off‐Balance‐Sheet Fiscal Agencies and the Role of the State in Financing the Green Transition, University of Bath and Global Climate Forum, GCF, Berlin, Germany, 18‐19 July 2023.
