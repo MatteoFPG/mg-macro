@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/macro-structures-and-dmo/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:47.000+00:00","updated":"2023-12-12T19:21:22.373+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/macro-structures-and-dmo/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:47.185+00:00","updated":"2023-12-12T19:21:22.000+00:00"}
 ---
 
 
