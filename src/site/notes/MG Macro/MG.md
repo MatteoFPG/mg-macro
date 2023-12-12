@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-11T23:45:34.421+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-12T09:51:40.230+00:00"}
 ---
 
 # Matteo Giordano
 
+> *Macroeconomist and Political Economist*
+
+
 ![CVPicture.png|300](/img/user/MG%20Macro/Attachments/CVPicture.png)
 
-> *Macroeconomist and Political Economist*
 
 
 <br />
