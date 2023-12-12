@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/gegi-study/","created":"2023-12-11T21:42:44.464+00:00","updated":"2023-12-12T18:08:24.679+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/gegi-study/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:44.464+00:00","updated":"2023-12-12T18:13:01.071+00:00"}
 ---
 
 
