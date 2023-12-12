@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/gegi-study/","created":"2023-12-11T21:42:44.464+00:00","updated":"2023-12-12T17:59:23.550+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/gegi-study/","created":"2023-12-11T21:42:44.464+00:00","updated":"2023-12-12T18:08:24.679+00:00"}
 ---
 
 
@@ -17,11 +17,6 @@
 ## Presentations related to the GEGI Study  
   
   
-Murau, S., Goghie, A., and Giordano, M. (2023). "Encumbered Security: Conceptualising Vertical and Horizontal Repos in the Euro Area" (Methodological Paper)
-
-
-![](https://www.youtube.com/watch?v=NAsoo08rG9k&t=3004s)
-
-
-
-![](https://www.youtube.com/watch?v=odXAtl9A4bY)
+1. Murau, S., Goghie, A., and Giordano, M. (2023). "Encumbered Security: Conceptualising Vertical and Horizontal Repos in the Euro Area" (Methodological Paper)
+	- [Link 1](https://www.youtube.com/watch?v=NAsoo08rG9k&t=3004s)
+	- [Link 2](https://www.youtube.com/watch?v=odXAtl9A4bY)
