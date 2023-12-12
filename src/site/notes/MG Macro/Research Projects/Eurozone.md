@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/eurozone/","created":"2023-12-11T21:42:12.000+00:00","updated":"2023-12-12T19:13:00.959+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/eurozone/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:12.000+00:00","updated":"2023-12-12T19:18:34.609+00:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 ![T2_EoP_plot.png](/img/user/MG%20Macro/Attachments/T2_EoP_plot.png)
 
 
-> I study the causes of monetary and financial imbalances in the Eurozone, focusing on the infrastructure (CCPs, CSDs, ECB + NCBs, ...) and on the links between monetary integration and financialisation of the national economies.
+> Analysing the causes of monetary and financial imbalances in the Eurozone, focusing on the infrastructure (CCPs, CSDs, ECB + NCBs, ...) and on the links between monetary integration and financialisation of the national economies.
 
 
 <br />
