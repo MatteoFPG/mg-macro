@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/publications/the-state-of-capitalism/","created":"2023-12-11T21:45:13.172+00:00","updated":"2023-12-11T23:35:07.536+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/publications/the-state-of-capitalism/","created":"2023-12-11T21:45:13.000+00:00","updated":"2023-12-11T23:35:07.000+00:00"}
 ---
 
 
