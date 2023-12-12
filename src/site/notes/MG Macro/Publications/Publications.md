@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/publications/publications/","created":"2023-12-11T21:26:37.000+00:00","updated":"2023-12-12T07:17:47.637+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/publications/publications/","created":"2023-12-11T21:26:37.391+00:00","updated":"2023-12-12T07:17:47.000+00:00"}
 ---
 
 
