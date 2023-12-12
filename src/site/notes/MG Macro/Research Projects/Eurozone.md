@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/eurozone/","created":"2023-12-11T21:42:12.384+00:00","updated":"2023-12-12T17:58:17.708+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/eurozone/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:12.384+00:00","updated":"2023-12-12T18:13:03.694+00:00"}
 ---
 
 
