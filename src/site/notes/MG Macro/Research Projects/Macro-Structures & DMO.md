@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/macro-structures-and-dmo/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:47.000+00:00","updated":"2023-12-12T18:52:48.844+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/macro-structures-and-dmo/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:47.000+00:00","updated":"2023-12-12T19:21:22.373+00:00"}
 ---
 
 
@@ -15,14 +15,13 @@
 # 3 Interlinked Research Areas
 ## 1. Macro-Structure  
 A Conceptualisation of the systemic relations, architectures, and tendencies permeating financialised capitalism.  
-See Giordano and Pulieri (forthcoming)  
+See [[MG Macro/Publications/Publications#^105952\|Giordano and Pulieri (forthcoming)]]
   
   
 ## 2. Debt Management Operations  
 The study of the political economy of debt management, the existence of DMO "independence", and of the synergies and tensions between DMOs and Central Banks.  
-See Giordano and Pulieri (forthcoming)  
-  
+See [[MG Macro/Publications/Publications#^105952\|Giordano and Pulieri (forthcoming)]]
   
 ## 3. Monetary Regime  
 Moving beyond the macroeconomic analysis of monetary policy by integrating policy decisions within the financial architecture and instruments to understand the postures of Central Banks.  
-See Giordano and Goghie (2023)
+See [[MG Macro/Publications/Publications#^aaa59c\|Giordano and Goghie (2023)]]
