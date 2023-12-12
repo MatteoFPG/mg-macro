@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/subordination/","tags":["project","research","open"],"created":"2023-12-11T21:42:32.000+00:00","updated":"2023-12-12T18:15:38.000+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/subordination/","tags":["project","research","ongoing"],"created":"2023-12-11T21:42:32.000+00:00","updated":"2023-12-12T18:52:56.595+00:00"}
 ---
 
 
