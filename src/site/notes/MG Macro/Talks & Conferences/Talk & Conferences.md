@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.000+00:00","updated":"2023-12-11T23:15:00.000+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/talks-and-conferences/talk-and-conferences/","created":"2023-12-11T22:40:02.142+00:00","updated":"2023-12-11T23:15:00.317+00:00"}
 ---
 
 
