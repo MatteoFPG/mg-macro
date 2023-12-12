@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/research-projects/research-projects/","created":"2023-12-11T21:40:44.391+00:00","updated":"2023-12-11T23:13:43.279+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/research-projects/research-projects/","created":"2023-12-11T21:40:44.391+00:00","updated":"2023-12-12T18:12:57.284+00:00"}
 ---
 
 
