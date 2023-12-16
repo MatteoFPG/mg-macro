@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-16T13:00:59.398+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-16T13:03:42.378+00:00"}
 ---
 
 # Matteo Giordano
@@ -57,4 +57,4 @@ I am a member of the European Research Network on Economic and Social Policy (ER
 - [SOAS University of London](https://www.soas.ac.uk/about/matteo-giordano-0)
 - EReNSEP
 - LSE
-- Global Climate Forum, Berlin
+- [Global Climate Forum, Berlin](https://globalclimateforum.org/portfolio-item/matteo-giordano/)
