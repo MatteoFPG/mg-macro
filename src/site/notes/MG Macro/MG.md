@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-12T09:54:38.311+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-16T12:00:18.535+00:00"}
 ---
 
 # Matteo Giordano
@@ -28,9 +28,7 @@ I am a member of the European Research Network on Economic and Social Policy (ER
 
 <br />
 
-> [download my CV](https://www.dropbox.com/scl/fi/nq689db8rz3aekscmhbbp/CV_MG_Academic.pdf?rlkey=7qaswnwdhfw149k5zv8tdevkk&dl=0)
-
-> [contact me](mailto:mg.macroeconomics@gmail.com)
+> ~ [download my CV](https://www.dropbox.com/scl/fi/nq689db8rz3aekscmhbbp/CV_MG_Academic.pdf?rlkey=7qaswnwdhfw149k5zv8tdevkk&dl=0) ~ • ~ • ~ [contact me](mailto:mg.macroeconomics@gmail.com) ~
 
 
 <br />
