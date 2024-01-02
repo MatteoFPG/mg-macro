@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2024-01-02T11:47:33.596+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2024-01-02T11:48:34.563+00:00"}
 ---
 
 # Matteo Giordano
@@ -63,5 +63,7 @@ I am a member of the European Research Network on Economic and Social Policy (ER
 - [Global Climate Forum, Berlin](https://globalclimateforum.org/portfolio-item/matteo-giordano/)
 
 
+<br />
+<br />
 
 <a href="https://www.buymeacoffee.com/mgmacro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
