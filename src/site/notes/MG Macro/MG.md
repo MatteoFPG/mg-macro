@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2023-12-16T13:03:42.378+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/mg/","tags":["gardenEntry"],"dgShowInlineTitle":true,"created":"2023-12-11T21:23:44.795+00:00","updated":"2024-01-02T11:47:33.596+00:00"}
 ---
 
 # Matteo Giordano
@@ -13,6 +13,9 @@
 <br />
 
 __[Twitter](https://twitter.com/Mat_Giord) ~ [LinkedIn](https://www.linkedin.com/in/matteogiordano-economist/) ~ [ORCiD](https://orcid.org/0000-0002-1588-6735)__
+
+
+
 
 <br />
 
@@ -58,3 +61,7 @@ I am a member of the European Research Network on Economic and Social Policy (ER
 - EReNSEP
 - LSE
 - [Global Climate Forum, Berlin](https://globalclimateforum.org/portfolio-item/matteo-giordano/)
+
+
+
+<a href="https://www.buymeacoffee.com/mgmacro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
