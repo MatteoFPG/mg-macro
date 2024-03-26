@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mg-macro/publications/publications/","created":"2023-12-11T21:26:37.391+00:00","updated":"2023-12-23T18:06:13.296+00:00"}
+{"dg-publish":true,"permalink":"/mg-macro/publications/publications/","created":"2023-12-11T21:26:37.391+00:00","updated":"2024-03-26T13:36:43.850+00:00"}
 ---
 
 
@@ -26,21 +26,21 @@
 # In Preparation and Review
 
 
-1. Giordano, M. [forthcoming, a]. “Conceptualising Monetary Subordination in the Eurozone", Review of International Political Economy.
-2. Giordano, M. [forthcoming, b]. "The European Currency Unit and Competing Monetary Hierarchies", European Law Journal.
+2. Giordano, M. [forthcoming, a]. “Conceptualising Monetary Subordination in the Eurozone", Review of International Political Economy.
+3. Giordano, M. [forthcoming, b]. "The European Currency Unit and Competing Monetary Hierarchies", European Law Journal.
 { #fad308}
 
-3. Giordano, M. [forthcoming, c]. "Monetary Subordination in the Eurozone: from the Financial Subordination for Emerging Markets to the Italian Subordinate Integration".
+4. Giordano, M. [forthcoming, c]. "Monetary Subordination in the Eurozone: from the Financial Subordination for Emerging Markets to the Italian Subordinate Integration".
 { #657064}
 
-4. Giordano, M. [forthcoming, d]. “The Legality of Subordination: Intersections of Monetary and Legal Hierarchies in the Eurozone”, Cambridge Journal of Political Economy.
+5. Giordano, M. [forthcoming, d]. “The Legality of Subordination: Intersections of Monetary and Legal Hierarchies in the Eurozone”, Cambridge Journal of Political Economy.
 { #29cb24}
 
-5. Murau, S., Goghie, A., and Giordano, M. [forthcoming]. “Encumbered Security: Conceptualizing Vertical and Horizontal Repos in the Euro Area”.
-6. Giordano, M. and E. Pulieri. [forthcoming]. “Debt Management (in‐)Dependence: The missing side of Central Banks and the Legacy of CBI”.
+6. Murau, S., Goghie, A., and Giordano, M. [forthcoming]. “Encumbered Security: Conceptualizing Vertical and Horizontal Repos in the Euro Area”.
+7. Giordano, M. and E. Pulieri. [forthcoming]. “Debt Management (in‐)Dependence: The missing side of Central Banks and the Legacy of CBI”.
 { #105952}
 
-7. Murau, S., Goghie, A., Schulxe, L. and Giordano, M. [forthcoming]. “The Monetary Architecture Framework”, GEGI Study, Boston University.
-8. Giordano, M. and H. Bae [forthcoming]. Subordination within non‐peripheral countries: beyond the experience of emerging markets.
+8. Murau, S., Goghie, A., Schulxe, L. and Giordano, M. [forthcoming]. “The Monetary Architecture Framework”, GEGI Study, Boston University.
+9. Giordano, M. and H. Bae [forthcoming]. Subordination within non‐peripheral countries: beyond the experience of emerging markets.
 
 
